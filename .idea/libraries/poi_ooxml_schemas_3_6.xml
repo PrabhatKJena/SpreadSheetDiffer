@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="poi-ooxml-schemas-3.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/poi-ooxml-schemas-3.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/poi-ooxml-3.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/poi-3.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/poi-3.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
